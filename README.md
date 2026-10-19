@@ -4,6 +4,8 @@
 
 A clipboard history for images and screenshots where you can search the words inside every picture you copied.
 
+> 🆓 A free, open-source **Cliply alternative** for macOS 14+. Native Swift, no accounts, no subscriptions, MIT licensed.
+
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
@@ -99,6 +101,10 @@ ShotClipSearch is free and always will be. If it saves you time, you can support
 [Support Or (Leo) Davidai ❤️](https://ko-fi.com/leodavidai)
 
 The app also has a *Support / Donate ❤️* button in the menu bar menu and in Settings.
+
+## More free Mac apps
+
+ShotClipSearch is one of [60 free, open-source Mac utilities](https://github.com/turhe123/mac-apps) built the same way: native Swift, no accounts, no telemetry. Browse the full gallery at [turhe123.github.io/mac-apps](https://turhe123.github.io/mac-apps/).
 
 ## License
 
