@@ -1,0 +1,6 @@
+[
+  {"file":"01-gallery.png","caption":"The gallery window shows every image you copied as a thumbnail card, labeled with the first line of its recognized text and the time it was captured.","alt":"ShotClipSearch gallery grid of copied images"},
+  {"file":"02-search.png","caption":"Typing \"invoice\" in the search field filters the gallery to the images whose recognized text contains that word.","alt":"Gallery filtered by a text search for invoice"},
+  {"file":"03-menu.png","caption":"The menu bar menu lists the five most recent images to copy back with one click, plus a capture toggle, Settings, and Support.","alt":"ShotClipSearch menu bar menu with recent images"},
+  {"file":"04-settings.png","caption":"Settings cover retention, maximum stored images, the recognition language, launch at login, and the global shortcut.","alt":"ShotClipSearch Settings window"}
+]

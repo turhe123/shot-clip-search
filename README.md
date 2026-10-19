@@ -1,5 +1,7 @@
 # ShotClipSearch
 
+**🌐 Website:** [turhe123.github.io/shot-clip-search](https://turhe123.github.io/shot-clip-search/)
+
 A clipboard history for images and screenshots where you can search the words inside every picture you copied.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -36,7 +38,21 @@ ShotClipSearch is a free, open-source, 100% native, backend-free alternative to 
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-gallery.png" alt="ShotClipSearch gallery grid of copied images" width="720"></p>
+
+<p align="center"><em>The gallery window shows every image you copied as a thumbnail card, labeled with the first line of its recognized text and the time it was captured.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-search.png" alt="Gallery filtered by a text search for invoice" width="560"></p>
+
+<p align="center"><em>Typing &quot;invoice&quot; in the search field filters the gallery to the images whose recognized text contains that word.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-menu.png" alt="ShotClipSearch menu bar menu with recent images" width="560"></p>
+
+<p align="center"><em>The menu bar menu lists the five most recent images to copy back with one click, plus a capture toggle, Settings, and Support.</em></p>
+
+<p align="center"><img src="docs/screenshots/04-settings.png" alt="ShotClipSearch Settings window" width="560"></p>
+
+<p align="center"><em>Settings cover retention, maximum stored images, the recognition language, launch at login, and the global shortcut.</em></p>
 
 ## Install
 

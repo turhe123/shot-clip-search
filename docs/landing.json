@@ -1,0 +1,24 @@
+{
+  "seo_title": "Searchable image clipboard for macOS",
+  "seo_description": "ShotClipSearch keeps every image and screenshot you copy and recognizes the text inside on your Mac, so you can search them. Free, open source, offline.",
+  "hero_title_line1": "Search the words",
+  "hero_title_accent": "inside every screenshot",
+  "hero_sub": "ShotClipSearch saves each image you copy and reads the text in it on-device. Press Command Shift V, type a word, and copy the right picture back.",
+  "features_title": "Find any copied image fast.",
+  "features_sub": "Everything runs locally, from capture to text recognition to search.",
+  "features": [
+    {"icon": "image", "title": "Image-first clipboard history", "desc": "Watches the clipboard for PNG, JPEG and TIFF images, including screenshots copied with Control Shift Command 4. Text copies are ignored."},
+    {"icon": "eye", "title": "On-device text recognition", "desc": "Apple Vision reads the text in each image in the background. Choose automatic detection or a specific language in Settings."},
+    {"icon": "text", "title": "Search words, apps and dates", "desc": "The search field matches recognized text, the source app name and the date. Cards show the first line of text and a timestamp."},
+    {"icon": "keyboard", "title": "Keyboard-driven gallery", "desc": "Open it with Command Shift V, move with arrow keys, press Return to copy back, Space to preview and Delete to remove."},
+    {"icon": "clock", "title": "Retention you control", "desc": "Keep images for 7, 30 or 90 days, or forever, and cap storage between 50 and 1000 images. Pinned images never expire."},
+    {"icon": "lock", "title": "Private by design", "desc": "No server, account or network code. Images, thumbnails and the index stay in a folder on your disk. Transient pasteboard items are skipped."}
+  ],
+  "permissions_step": "No special permissions are required. If you turn on Launch at login, macOS lists the app under System Settings > General > Login Items.",
+  "faq": [
+    {"q": "Is ShotClipSearch really free and open source?", "a": "Yes. It is released under the MIT license and the full source is on GitHub. There are no accounts, subscriptions or paid tiers, and an optional Support button links to Ko-fi."},
+    {"q": "What permissions does it need?", "a": "None. It only reads the clipboard, never captures your screen, and the global shortcut does not need Accessibility access. Launch at login is optional and appears in Login Items."},
+    {"q": "Where is my data stored?", "a": "Images, thumbnails and a JSON index are kept in ~/Library/Application Support/ShotClipSearch/ on your Mac. Text recognition runs on-device and nothing is sent over the network."},
+    {"q": "Why isn't the app notarized?", "a": "Notarization requires a paid Apple Developer account, and this is a free project. Right-click the app and choose Open once to launch it, or build it yourself from source with Xcode and XcodeGen."}
+  ]
+}
